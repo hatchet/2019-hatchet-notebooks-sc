@@ -1,6 +1,6 @@
-# <img src="https://raw.githubusercontent.com/slabasan/hatchet-notebooks-sc19/migrate-to-binder/logo-hex.png" width="64" valign="middle" alt="hatchet"/> Hatchet SC19 Notebooks
+# <img src="https://raw.githubusercontent.com/hatchet/hatchet-notebooks-sc19/migrate-to-binder/logo-hex.png" width="64" valign="middle" alt="hatchet"/> Hatchet SC19 Notebooks
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/slabasan/hatchet-notebooks-sc19/migrate-to-binder)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hatchet/hatchet-notebooks-sc19/migrate-to-binder)
 
 
 ### Running the notebooks
@@ -9,7 +9,7 @@ We use [BinderHub](https://mybinder.org) to create a shareable and interactive
 environment of this code repository within a live JupyterHub instance.
 
 You can access the interactive environment at this
-[link](https://mybinder.org/v2/gh/slabasan/hatchet-notebooks-sc19/migrate-to-binder)
+[link](https://mybinder.org/v2/gh/hatchet/hatchet-notebooks-sc19/migrate-to-binder)
 or by clicking the badge at the top of this file.
 
 
